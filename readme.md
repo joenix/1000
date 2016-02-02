@@ -50,7 +50,7 @@
 	- [jOperat](https://github.com/joenix/jOperat)
 	- [page7.pt](https://github.com/page7/pt)
 
-### 群格言：
+### 群格言
 - 有信心，无难事！
 
 ### Manual & Kit
