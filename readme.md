@@ -35,9 +35,10 @@
 
 ### 福利
 - 不定期组织活动：聚餐、K歌、郊游、篮球及各类文体活动
-- 吹水群：218484574
-- 体验群：365094777
-- 招聘群：223102224
+- 千人群：[165765610](http://shang.qq.com/wpa/qunwpa?idkey=3261acd24f84c3e9911193181254395ae29ffb7226c9ddacce554c6b3c39cf86)
+- 吹水群：[218484574](http://shang.qq.com/wpa/qunwpa?idkey=e9d54b992af02ba82c65cbbf154621fb15c61486b0cb02a5c14c24737c713d1f)
+- 体验群：[365094777](http://shang.qq.com/wpa/qunwpa?idkey=4a2fc146f381ac1179a6df79ff34f289ba764a46a09c4691adf62531960be4b3)
+- 招聘群：[223102224](http://shang.qq.com/wpa/qunwpa?idkey=acd5c126270a652ba853063f876ee1c1565cc2c8f3f0621b21018c9cb2542e54)
 - Git Follow：
 	- [joenix](https://github.com/joenix)
 	- [page7](https://github.com/page7)
