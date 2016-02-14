@@ -11,7 +11,7 @@
 	+ everyone.call(me), i.apply(everyone);
 
 ### 统一名片格式
-- [地区]昵称 or [公司]昵称（如：[上海]喵喵）
+- [地区]昵称 or [公司]昵称（如：[上海]喵喵，禁：[北京]前端、[上海]招聘）
 
 ### JD（Job Description）：（`*`必填）
 - 公司名称 `*`
@@ -51,7 +51,7 @@
 	- [page7.pt](https://github.com/page7/pt)
 
 ### 群格言（Motto）：
-- 有信心，无难事！
+- 有信心，无难事！（梅艳芳）
 
 ### 手册（Manual）：
 - [jQuery](http://jquery.cuishifeng.cn/)
