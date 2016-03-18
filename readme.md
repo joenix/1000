@@ -67,7 +67,8 @@
 - [jQuery](http://jquery.cuishifeng.cn/)
 - [css](http://css.doyoe.com/)
 - [bootstrap](http://www.bootcss.com/)
-- [reactjs](http://reactjs.cn/react/docs/)
+- [react-js](http://reactjs.cn/react/docs/)
+- [react-native](http://facebook.github.io/react-native/)
 
 ### 工具（Kit）：
 - [tool](http://joenix.com/tool.html)
