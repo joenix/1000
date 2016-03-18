@@ -63,6 +63,7 @@
 - 有信心，无难事！（梅艳芳）
 
 ### 手册（Manual）：
+- [javascript](http://www.ziqiangxuetang.com/jsref/jsref-tutorial.html)
 - [jQuery](http://jquery.cuishifeng.cn/)
 - [css](http://css.doyoe.com/)
 - [bootstrap](http://www.bootcss.com/)
